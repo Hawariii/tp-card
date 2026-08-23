@@ -1,0 +1,41 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "TP-Card [behavior]",
+    "description": "Add, save, and teleport to waypoints across dimensions with a single click.- By Aizhu",
+    "uuid": "b1a2c3d4-1111-4a2b-9c3d-000000000001",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 40]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "b1a2c3d4-2222-4a2b-9c3d-000000000002",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "b1a2c3d4-3333-4a2b-9c3d-000000000003",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.3.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.0.0"
+    },
+    {
+      "uuid": "b1a2c3d4-4444-4a2b-9c3d-000000000004",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "product_type": "addon"
+  }
+}

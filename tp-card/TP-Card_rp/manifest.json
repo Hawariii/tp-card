@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "TP-Card [Resources]",
+    "description": "Resources for TP-Card - a teleport waypoint item addon.- By Aizhu",
+    "uuid": "b1a2c3d4-4444-4a2b-9c3d-000000000004",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 40]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "b1a2c3d4-5555-4a2b-9c3d-000000000005",
+      "version": [1, 0, 0]
+    }
+  ]
+}

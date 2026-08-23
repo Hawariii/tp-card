@@ -1,0 +1,7 @@
+TP-Card Addon
+Copyright (c) 2026 Aizhu
+All Rights Reserved.
+
+This addon (behavior pack and resource pack, including scripts, textures,
+and configuration files) may not be redistributed, re-uploaded, modified,
+or repackaged without explicit permission from the creator.
